@@ -162,11 +162,11 @@
     <comment>Part 3 of the install message when the name of the installer is not known</comment>
   </data>
   <data name="MatchUpCardContentPart1" xml:space="preserve">
-    <value>Hi there again, I'm Donut Buddy. A bot that pairs you with a new coworker to meet every other week. This time your match is {2}.</value>
+    <value>Hi there again, I'm Donut Buddy. A bot that pairs you with a new coworker to meet every other week. </value>
     <comment>First part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardContentPart2" xml:space="preserve">
-    <value>If you've got the inclination, set something up. See, meeting people *is* easy!</value>
+    <value>Use the buttons below to set up some time, chat your match or take a break. We may be geographically apart, but we can still connect virtually. Need some ideas on what to chat about? Go to the Donut Buddy Teams space. Enjoy your coffee break!</value>
     <comment>Second part of the match up card main content</comment>
   </data>
   <data name="MatchUpCardMatchedText" xml:space="preserve">
